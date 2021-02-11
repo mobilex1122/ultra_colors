@@ -1,5 +1,5 @@
 print("made by mobilex1122. thanks for download!")
-print("")
+print("_________________________________________")
 print("use four wools for make color block. color block + some dye = ultra color block")
 
 minetest.register_node("ultra_colors:colorblock", {
